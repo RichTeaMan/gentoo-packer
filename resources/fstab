@@ -1,0 +1,5 @@
+/dev/vda1   /boot        vfat    defaults,noatime     0 2
+/dev/vda2   none         swap    sw                   0 0
+/dev/vda3   /            ext4    noatime              0 1
+
+/dev/cdrom  /mnt/cdrom   auto    noauto,user          0 0
